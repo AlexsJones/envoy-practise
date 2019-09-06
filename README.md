@@ -3,7 +3,7 @@
 For helping me get my head around envoy proxy configuration with static resources.
 
 
-#Requirements
+# Requirements
 
 - helm
 - Connected kubernetes cluster (I used GKE)
